@@ -13,8 +13,8 @@ def babu():
         print(f"A subtração é igual à: {s}")
     if cal == "x":
         m = v1 * v2
-        print(f"Você tem diabetes tipo a")
+        print(f"A multiplicação é igual à: {m}")
     if cal == "/":
         d = v1 / v2
         print(f"A divisão é igual à: {d}")
-luizão()
+babu()
